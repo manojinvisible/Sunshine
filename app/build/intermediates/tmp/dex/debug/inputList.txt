@@ -1,0 +1,5 @@
+/home/ays/Sunshine/app/build/intermediates/classes/debug
+/home/ays/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c9898d991c0a1e5cd3845ed692982be34fba0b1e.jar
+/home/ays/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-309b8096e8043b18e30dee68bb1b3c6d7dc5ff60.jar
+/home/ays/Sunshine/app/build/intermediates/pre-dexed/debug/classes-3d9cc58947026dc71e887a5d74e90a115636238d.jar
+/home/ays/Sunshine/app/build/intermediates/pre-dexed/debug/classes-6281b1a8024f8e4b963ec69d15c7b63097001764.jar
